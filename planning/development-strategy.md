@@ -19,7 +19,7 @@ This project is to make a  reverse engineering about  [Hack Your Future website]
 
 ### Announcement bar
 
-This feature  on a branch announcement-bar.
+This feature  on a branch `announcement-bar`.
 
 #### HTML
 
@@ -32,7 +32,7 @@ This feature  on a branch announcement-bar.
 
 ### Navigation bar
 
-This feature  on a branch navigation-bar.
+This feature  on a branch `navigation-bar`.
 
 #### HTML
 
@@ -46,7 +46,7 @@ This feature  on a branch navigation-bar.
 
 ### Main content section
 
-This feature on a branch main-content.
+This feature on a branch `main-content`.
 
 #### HTML
 
@@ -62,7 +62,7 @@ This feature on a branch main-content.
 
 ### Logo cluster
 
-This feature on a branch logo-cluster.
+This feature on a branch `logo-cluster`.
 
 #### HTML
 
@@ -74,7 +74,7 @@ This feature on a branch logo-cluster.
 
 ### Stats section
 
-This feature on a branch stats-section.
+This feature on a branch `stats-section`.
 
 #### HTML
 
@@ -86,7 +86,7 @@ This feature on a branch stats-section.
 
 ### Program section
 
-This feature on a branch program-section.
+This feature on a branch `program-section`.
 
 #### HTML
 
@@ -99,7 +99,7 @@ This feature on a branch program-section.
 
 ### Hiring talent section
 
-This feature on a branch hiring-talent-section.
+This feature on a branch `hiring-talent-section`.
 
 #### HTML
 
@@ -121,11 +121,11 @@ This feature on a branch about-hyf.
 
 #### CSS
 
-- Add style to About HYF section
+- Add style to `About HYF section`
 
 ### Companies
 
-This feature  on a branch companies.
+This feature  on a branch `companies`.
 
 #### HTML
 
@@ -141,7 +141,7 @@ This feature  on a branch companies.
 
 ### Footer
 
-This feature on a branch footer.
+This feature on a branch `footer`.
 
 #### HTML
 
