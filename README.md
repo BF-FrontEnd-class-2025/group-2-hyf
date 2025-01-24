@@ -144,8 +144,8 @@ To-do list:
 Project is: _done_
 
 ## Inspiration
+Project by HYF
 
-Project by freeCodeCamp.org
 
 ## Contact
 
@@ -155,6 +155,7 @@ By
 - [Daniiel Mykytiuk](https://github.com/danmkt00)
 - [Harley Clair](https://github.com/harley-dane)
 - [Catherine Lin](https://github.com/boba-milktea)
+
 
 ## Instructions for use
 
