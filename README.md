@@ -23,11 +23,14 @@
 
 ## General info
 
-> A short description
+> A website for people with limited, for example, refugees, access to education
+> and the labor market.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![header](./planning/screenshot-1.png)
+![main section](./planning/screenshot-2.png)
+![hiring section](./planning/screenshot-3.png)
 
 ## Technologies
 
@@ -43,27 +46,102 @@
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```HTML
+  <div style="opacity:0" class="navbar-wrapper">
+            <div class="navbar-container bg-dark">
+                <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
+                    <div class="navbar-row">
+                        <div class="navbar-left-contents">
+                            <a href="/" aria-current="page" class="brand w-nav-brand w--current">
+                                <img src="https://cdn.prod.website-files.com/62745a1007e49e2461fb7ecd/62745a1007e49e6f2afb7fd1_HYF.svg" height="50" alt=""/>
+                            </a>
+                            <nav role="navigation" class="nav-menu left w-nav-menu">
+                                <a href="/program" class="nav-link nav-menu-item text-white w-nav-link">THE PROGRAM</a>
+                                <a href="/hiring" class="nav-link nav-menu-item text-white w-nav-link">HIRE A TALENT</a>
+                                <a href="/volunteer" class="nav-link nav-menu-item text-white w-nav-link">VOLUNTEER</a>
+                                <div data-hover="true" data-delay="250" class="dropdown nav-menu-item w-dropdown">
+                                    <div class="dropdown-toggle w-dropdown-toggle">
+                                        <div class="nav-link text-white">ABOUT US</div>
+                                        <img src="https://cdn.prod.website-files.com/62745a1007e49e2461fb7ecd/62745a1007e49e23a7fb7f2f_icon-dropdown-arrow-white.svg" alt="" class="dropdown-icon"/>
+                                    </div>
+                                    <nav class="dropdown-list w-dropdown-list">
+                                        <div>
+                                            <a href="/about" class="dropdown-link w-dropdown-link">Organisation</a>
+                                            <a href="/team" class="dropdown-link w-dropdown-link">Team</a>
+                                            <a href="/values" class="dropdown-link w-dropdown-link">Values</a>
+                                            <a href="/impact" class="dropdown-link w-dropdown-link">Impact</a>
+                                        </div>
+                                    </nav>
+                                </div>
+                                <a href="/donate" class="nav-link nav-menu-item text-white w-nav-link">DONATE</a>
+                                <a href="/apply" class="nav-link nav-menu-item text-white w-nav-link">JOIN THE PROGRAM</a>
+                            </nav>
+                        </div>
+                        <div class="navbar-right-contents">
+                            <div class="menu-button w-nav-button">
+                                <img src="https://cdn.prod.website-files.com/62745a1007e49e2461fb7ecd/62745a1007e49e6846fb7f56_icon-menu-white.svg" loading="lazy" alt="" class="menu-button-image"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+```
+
+```CSS
+body {
+    margin: 0
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
+    display: block
+}
+
+audio,canvas,progress,video {
+    vertical-align: baseline;
+    display: inline-block
+}
+
+audio:not([controls]) {
+    height: 0;
+    display: none
+}
+
+[hidden],template {
+    display: none
+}
+
+a {
+    background-color: #0000
+}
+
+a:active,a:hover {
+    outline: 0
+}
+
+abbr[title] {
+    border-bottom: 1px dotted
+}
+
 ```
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
+- [x] announcement bar
+- [x] navigation bar
+- [x] main content and the animation
+- [x] resource links for information
+- [x] footer navigation bar and useful links
 
 To-do list:
 
--
--
+- [ ] case studies and video links
 
 ## Status
 
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
 
@@ -77,9 +155,6 @@ Project by HYF 2025 Group 4
 - [Manloi](https://github.com/jimanloi)
 
 ## Instructions for use
-
-<details>
-  <summary>Getting Started</summary>
 
 <!-- a guide to using this repository -->
 
