@@ -145,13 +145,16 @@ Project is: _done_
 
 ## Inspiration
 
-Project by HYF 2025 Group 4
+Project by HYF
 
 ## Contact
 
-- [Alamgir](https://github.com/alamgir1973)
-- [Artur](https://github.com/gritchin-artur)
-- [Roman](https://github.com/kovbinka)
+By
+
+- [Sajid Hussain](https://github.com/SajidHussainabbasi)
+- [Daniiel Mykytiuk](https://github.com/danmkt00)
+- [Harley Clair](https://github.com/harley-dane)
+- [Catherine Lin](https://github.com/boba-milktea)
 - [Manloi](https://github.com/jimanloi)
 
 ## Instructions for use
