@@ -1,7 +1,7 @@
 # HYF look alike Website
 
 <!-- describe your project -->
-This project is to reverse engineer the [Hack Your Future (HYF) website](https://www.hackyourfuture.net/).
+This project is to make a  reverse engineering about  [Hack Your Future website](https://www.hackyourfuture.net/).
 
 ---
 
@@ -19,7 +19,7 @@ This project is to reverse engineer the [Hack Your Future (HYF) website](https:/
 
 ### Announcement bar
 
-This feature develops on a branch `announcement-bar`.
+This feature  on a branch announcement-bar.
 
 #### HTML
 
@@ -32,7 +32,7 @@ This feature develops on a branch `announcement-bar`.
 
 ### Navigation bar
 
-This feature develops on a branch `navigation-bar`.
+This feature  on a branch navigation-bar.
 
 #### HTML
 
@@ -46,7 +46,7 @@ This feature develops on a branch `navigation-bar`.
 
 ### Main content section
 
-This feature develops on a branch `main-content`.
+This feature  on a branch main-content.
 
 #### HTML
 
