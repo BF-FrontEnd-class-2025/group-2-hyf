@@ -145,14 +145,16 @@ Project is: _done_
 
 ## Inspiration
 
-Project by HYF 2025 Group 4
+Project by freeCodeCamp.org
 
 ## Contact
 
-- [Alamgir](https://github.com/alamgir1973)
-- [Artur](https://github.com/gritchin-artur)
-- [Roman](https://github.com/kovbinka)
-- [Manloi](https://github.com/jimanloi)
+By
+
+- [Sajid Hussain](https://github.com/SajidHussainabbasi)
+- [Daniiel Mykytiuk](https://github.com/danmkt00)
+- [Harley Clair](https://github.com/harley-dane)
+- [Catherine Lin](https://github.com/boba-milktea)
 
 ## Instructions for use
 
