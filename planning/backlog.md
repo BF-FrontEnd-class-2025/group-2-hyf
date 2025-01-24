@@ -1,7 +1,7 @@
-
 # Backlog
 
-A collection of users who are looking for training to become frontend developer or full-Stack developer
+A collection of users who are looking for training to become frontend developer
+or full-Stack developer
 
 ## Main page
 
@@ -16,10 +16,10 @@ A collection of users who are looking for training to become frontend developer 
 - As a user, I need useful stats-section so user can see statistics.
 - As a user, I need useful programs-section so user can see cloud program
   information.
-- As a user, I need useful hiring-talent-section so user can see talented
-  people after studying.
-- As a user, I need useful information  about-hyf so user can see info about HYF.
-- As a user, I need  companies information so user can see which companies hire
+- As a user, I need useful hiring-talent-section so user can see talented people
+  after studying.
+- As a user, I need useful information about-hyf so user can see info about HYF.
+- As a user, I need companies information so user can see which companies hire
   graduates.
 - As a user, I need a footer so I can find the contact information easily.
 
