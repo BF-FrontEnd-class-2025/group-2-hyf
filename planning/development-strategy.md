@@ -1,55 +1,155 @@
-# Project Name
+# HYF look alike Website
 
 <!-- describe your project -->
+This project is to make a  reverse engineering about  [Hack Your Future website](https://www.hackyourfuture.net/).
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Create a new rep
+- Add collaborators and protect the main branch
+- Create a project board and issues
+- Clone the repo to a local machine
+- Create branches for each issue
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## Landing page
 
-## user story
+### Announcement bar
 
-<!-- each issue created from this section will have the `for: user story` label -->
+This feature  on a branch `announcement-bar`.
 
-> "as a ... i can ... so that ..."
+#### HTML
 
-<!-- write any extra notes or description -->
+- Add `div` class="announcement-bar"
+- Add `div` inside `div`
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+#### CSS
 
-### Logic: user story
+- Add style to announcement-bar
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### Navigation bar
 
-### Interface: user story
+This feature  on a branch `navigation-bar`.
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+#### HTML
 
-### Interaction: user story
+- Add `div` class="nav-bar"
+- Add `div` for logo on the left and content on the right
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+#### CSS
 
-### Documentation: user story
+- Add style to nav-bar
+- Add style to logo
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### Main content section
+
+This feature on a branch `main-content`.
+
+#### HTML
+
+- Add `div` to create a main container
+- Add `h1` to add heading
+- Add `p` to add text
+- Add `img`
+
+#### CSS
+
+- Add style to hero container
+- Add style to body
+
+### Logo cluster
+
+This feature on a branch `logo-cluster`.
+
+#### HTML
+
+- Add `div` class="logo-cluster"
+
+#### CSS
+
+- Add style to logos
+
+### Stats section
+
+This feature on a branch `stats-section`.
+
+#### HTML
+
+- Add `div` to create a container for stats-section
+
+#### CSS
+
+- Add style to stats
+
+### Program section
+
+This feature on a branch `program-section`.
+
+#### HTML
+
+- Add `div` to create a container for program section
+- Add `img`
+
+#### CSS
+
+- Add style to program section
+
+### Hiring talent section
+
+This feature on a branch `hiring-talent-section`.
+
+#### HTML
+
+- Add `div`
+-- Add `img`
+
+#### CSS
+
+- Add style to hiring section
+
+### About HYF
+
+This feature on a branch about-hyf.
+
+#### HTML
+
+- Add `div`
+-- Add `img`
+
+#### CSS
+
+- Add style to `About HYF section`
+
+### Companies
+
+This feature  on a branch `companies`.
+
+#### HTML
+
+- Add `img` for the block background
+- Add `h6`
+- Add `img` for the companies' logos
+
+#### CSS
+
+- Add style to background
+- Add style to text
+- Add style to companies' logos
+
+### Footer
+
+This feature on a branch `footer`.
+
+#### HTML
+
+- Add `div` for the footer section
+- Add `div` to create two grids
+- Add `div` to create three vertical grid
+
+#### CSS
+
+- Add style to footer container
+- Add style to grids
