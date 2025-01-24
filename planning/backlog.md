@@ -1,30 +1,38 @@
+
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+A collection of users who are looking for training to become frontend developer or full-Stack developer
 
-## Must-Haves
+## Main page
+
+### Must-Haves
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a user, I want to see announcements so I need an announcement-bar.
+- As a user, I need a nav-bar overview so I can navigate and see the logo.
+- As a user, I need useful main-content so user can see info about this site.
+- As a user, I need useful logo-cluster so user can see partners logo.
+- As a user, I need useful stats-section so user can see statistics.
+- As a user, I need useful programs-section so user can see cloud program
+  information.
+- As a user, I need useful hiring-talent-section so user can see talented
+  people after studying.
+- As a user, I need useful information  about-hyf so user can see info about HYF.
+- As a user, I need  companies information so user can see which companies hire
+  graduates.
+- As a user, I need a footer so I can find the contact information easily.
 
-## Should-Haves
+### Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a user I want to see some case studies so I can understand better the
+  features.
 
-## Could-Haves
+### Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a user I want to see some `video links` so I can see more information about
+  companies.
