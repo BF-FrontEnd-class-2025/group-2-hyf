@@ -46,7 +46,7 @@ This feature  on a branch navigation-bar.
 
 ### Main content section
 
-This feature  on a branch main-content.
+This feature on a branch main-content.
 
 #### HTML
 
@@ -62,7 +62,7 @@ This feature  on a branch main-content.
 
 ### Logo cluster
 
-This feature develops on a branch `logo-cluster`.
+This feature on a branch logo-cluster.
 
 #### HTML
 
@@ -74,7 +74,7 @@ This feature develops on a branch `logo-cluster`.
 
 ### Stats section
 
-This feature develops on a branch `stats-section`.
+This feature on a branch stats-section.
 
 #### HTML
 
@@ -86,7 +86,7 @@ This feature develops on a branch `stats-section`.
 
 ### Program section
 
-This feature develops on a branch `program-section`.
+This feature on a branch program-section.
 
 #### HTML
 
@@ -99,7 +99,7 @@ This feature develops on a branch `program-section`.
 
 ### Hiring talent section
 
-This feature develops on a branch `hiring-talent-section`.
+This feature on a branch hiring-talent-section.
 
 #### HTML
 
@@ -112,7 +112,7 @@ This feature develops on a branch `hiring-talent-section`.
 
 ### About HYF
 
-This feature develops on a branch `about-hyf`.
+This feature on a branch about-hyf.
 
 #### HTML
 
@@ -125,7 +125,7 @@ This feature develops on a branch `about-hyf`.
 
 ### Companies
 
-This feature develops on a branch `companies`.
+This feature  on a branch companies.
 
 #### HTML
 
@@ -141,7 +141,7 @@ This feature develops on a branch `companies`.
 
 ### Footer
 
-This feature develops on a branch `footer`.
+This feature on a branch footer.
 
 #### HTML
 
